@@ -6,7 +6,7 @@
 I am a third year Student pursing Btech. I am interested in Web development currently working on Data-Structure Problem-Solving C++ DJANGO HTML CSS3 JavaScript PYTHON MYSQL PHP GIT Bootstrap Tailwind JAVA Photoshop Video Editing
 
   
-# Weather-App
+# Weather-App -> [Live Link](https://weatherappplication.herokuapp.com/)
 
 Its a simple web application to know Weather detail from around the world.
 
@@ -46,6 +46,10 @@ python manage.py runserver
 ```
     
 ## Screenshots
+
+![Screenshot (108)](https://user-images.githubusercontent.com/52989607/137305596-cbc37d0f-0065-4e13-9d6e-a327324dc915.png)
+
+![Screenshot (109)](https://user-images.githubusercontent.com/52989607/137305604-58c63bee-777b-44a6-be9c-fd862ce42dfd.png)
 
 
 ## Authors
