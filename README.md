@@ -6,7 +6,9 @@
 I am a third year Student pursing Btech. I am interested in Web development currently working on Data-Structure Problem-Solving C++ DJANGO HTML CSS3 JavaScript PYTHON MYSQL PHP GIT Bootstrap Tailwind JAVA Photoshop Video Editing
 
   
-# Weather-App -> [Live Link](https://weatherappplication.herokuapp.com/)
+## Weather-App -> [Live heroku Link](https://weatherappplication.herokuapp.com/)
+## Weather-App -> [Live AWS Link](http://ec2-3-111-23-43.ap-south-1.compute.amazonaws.com:8001/)
+## Weather-App -> [Live AWS DOCKER Link](http://ec2-3-111-23-43.ap-south-1.compute.amazonaws.com:8000/)
 
 Its a simple web application to know Weather detail from around the world.
 
