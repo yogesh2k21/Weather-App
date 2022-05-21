@@ -8,10 +8,6 @@ I am a third year Student pursing Btech. I am interested in Web development curr
   
 ## Weather-App -> [Live heroku Link](https://weatherappplication.herokuapp.com/)
 
-## Weather-App -> [Live AWS Link](http://ec2-3-111-23-43.ap-south-1.compute.amazonaws.com:8001/)
-
-## Weather-App -> [Live AWS DOCKER Link](http://ec2-3-111-23-43.ap-south-1.compute.amazonaws.com:8000/)
-
 Its a simple web application to know Weather detail from around the world.
 
 
@@ -54,6 +50,11 @@ python manage.py runserver
 ![Screenshot (108)](https://user-images.githubusercontent.com/52989607/137305596-cbc37d0f-0065-4e13-9d6e-a327324dc915.png)
 
 ![Screenshot (109)](https://user-images.githubusercontent.com/52989607/137305604-58c63bee-777b-44a6-be9c-fd862ce42dfd.png)
+
+## To run in docker container on Ubuntu
+
+simply clone this project and execute the `task.sh` file, it will automatically create the image of the project and run the instance of that image.
+After instance is run check your machine `localhost` with port `8000`.
 
 
 ## Authors
