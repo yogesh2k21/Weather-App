@@ -4,7 +4,7 @@ sudo snap install docker
 
 git clone https://github.com/yogesh2k21/Weather-App
 
-cd /home/ubuntu/Weather-App
+cd Weather-App
 
 #display current directory path
 echo $(pwd)
